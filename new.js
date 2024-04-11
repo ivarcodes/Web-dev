@@ -1,3 +1,4 @@
+//DAY -1 :)
 //console => to print things in console
 // let => to create variable
 // const => to create constant value 
